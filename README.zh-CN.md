@@ -18,7 +18,7 @@
 
 **一句话结论：**[转发最多的 6 个案例](#先看这些)里，只有 DX-Ball 在自己的仓库里写明用了 REA；另外 2 个只在作者的帖子里这么说，其余 3 个用的是别的工具，或者还没核实。[逐条核查](docs/is-it-rea.zh-CN.md)
 
-**[REA 是什么？常见问题](docs/what-is-rea.zh-CN.md)** · **[按被替代的软件找项目](docs/by-app.zh-CN.md)** · **[REA 说法核实](docs/is-it-rea.zh-CN.md)** · **[REA 到底有没有用：对照实验](#rea-到底有没有用对照实验)** · **[本周新增](docs/new-this-week.zh-CN.md)** · **[投稿案例](https://github.com/AIshihzong/awesome-reverse-engineer-anything/issues/new?template=case.yml)**
+**[REA 是什么？常见问题](docs/what-is-rea.zh-CN.md)** · **[Antigravity 与 Gemini 指南](docs/antigravity-guide.zh-CN.md)** · **[按被替代的软件找项目](docs/by-app.zh-CN.md)** · **[REA 说法核实](docs/is-it-rea.zh-CN.md)** · **[REA 到底有没有用：对照实验](#rea-到底有没有用对照实验)** · **[本周新增](docs/new-this-week.zh-CN.md)** · **[投稿案例](https://github.com/AIshihzong/awesome-reverse-engineer-anything/issues/new?template=case.yml)**
 
 > ⭐ **[点个 Star](https://github.com/AIshihzong/awesome-reverse-engineer-anything)** 就能收藏，在 GitHub 动态里随时找到这份列表（不提 PR 的话不用 fork）；或者 **Watch → Custom → Releases**，每周收到一期 [AI 逆向周报](https://github.com/AIshihzong/awesome-reverse-engineer-anything/releases)。
 
@@ -219,6 +219,7 @@
 
 ## 插件与集成
 
+- [antigravity-rea](docs/antigravity-guide.zh-CN.md) - 面向 Google Antigravity 与 Gemini AI 的开箱即用集成套件：提供 REA 逆向与 AI 重建 Skills、专业 Subagent、零依赖 Python 辅助工具以及 MCP 服务配置。
 - [zhaofeng130/dsh-rea](https://github.com/zhaofeng130/dsh-rea) - DeepSeek Harness 适配器，在每个会话中注册 REA Skill 以及 `rea` / `rea_doctor` 工具。
 - [ya123-4/rea-dsh-plugin](https://github.com/ya123-4/rea-dsh-plugin) - DeepSeek Harness 插件，安装后把 REA MCP 注册为 `mcp__rea__*` 工具并附带 Skill。
 - [sheilacraig/dsh-rea-mcp](https://github.com/sheilacraig/dsh-rea-mcp) - 纯配置的 DeepSeek Harness bundle，用内置 MCP 客户端挂载 REA。

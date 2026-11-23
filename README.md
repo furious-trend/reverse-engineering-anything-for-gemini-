@@ -18,7 +18,7 @@
 
 **The short answer:** of the six [most-shared cases](#most-shared), only one, DX-Ball, says in its own repo that it used REA. Two more say so only in the author's post, and the other three used other tools or are unverified. [See every check](docs/is-it-rea.md).
 
-**[What is REA? FAQ](docs/what-is-rea.md)** · **[Find a project by the app it replaces](docs/by-app.md)** · **[Did it really use REA?](docs/is-it-rea.md)** · **[Does REA help? The evidence](#does-rea-help-the-evidence)** · **[New this week](docs/new-this-week.md)** · **[Submit a case](https://github.com/AIshihzong/awesome-reverse-engineer-anything/issues/new?template=case.yml)**
+**[What is REA? FAQ](docs/what-is-rea.md)** · **[Antigravity & Gemini Guide](docs/antigravity-guide.md)** · **[Find a project by the app it replaces](docs/by-app.md)** · **[Did it really use REA?](docs/is-it-rea.md)** · **[Does REA help? The evidence](#does-rea-help-the-evidence)** · **[New this week](docs/new-this-week.md)** · **[Submit a case](https://github.com/AIshihzong/awesome-reverse-engineer-anything/issues/new?template=case.yml)**
 
 > ⭐ **[Star this repo](https://github.com/AIshihzong/awesome-reverse-engineer-anything)** to save it and keep it in your GitHub feed (no need to fork unless you are sending a pull request), or **Watch → Custom → Releases** to get one [weekly digest](https://github.com/AIshihzong/awesome-reverse-engineer-anything/releases) a week of what AI agents took apart.
 
@@ -214,6 +214,7 @@ A rewrite where every step is compared with recorded behaviour of the original p
 
 ## Plugins and integrations
 
+- [antigravity-rea](docs/antigravity-guide.md) - Turnkey integration bundle for Google Antigravity & Gemini AI: ships reverse-engineering and AI-rebuild skills, specialist subagents, zero-dependency Python companion tools, and MCP server configuration.
 - [zhaofeng130/dsh-rea](https://github.com/zhaofeng130/dsh-rea) - DeepSeek Harness adapter that registers the REA Skill and tools.
 - [ya123-4/rea-dsh-plugin](https://github.com/ya123-4/rea-dsh-plugin) - DeepSeek Harness plugin that registers REA MCP tools.
 - [sheilacraig/dsh-rea-mcp](https://github.com/sheilacraig/dsh-rea-mcp) - Config-only DeepSeek Harness bundle that mounts REA.

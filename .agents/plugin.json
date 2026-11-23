@@ -1,0 +1,31 @@
+{
+  "name": "reverse-engineer-anything",
+  "displayName": "Reverse Engineer Anything (REA) for Antigravity",
+  "version": "1.0.0",
+  "description": "Evidence-driven reverse engineering and clean-room rebuild framework for Google Antigravity & Gemini AI. Inspect native binaries, Electron/JavaScript apps, Android APKs, .NET assemblies, firmware, network protocols, and web apps with verification and differential testing.",
+  "logo": "https://raw.githubusercontent.com/AIshihzong/awesome-reverse-engineer-anything/main/assets/readme/hero.svg",
+  "suggestedPrompts": [
+    "Reverse engineer this binary and produce an evidence-backed analysis report",
+    "Inspect this Electron app/ASAR package and extract its IPC bridge and API routes",
+    "Deconstruct this Android APK and analyze its native libraries and cryptographic routines",
+    "Design a behavior-checked, clean-room reconstruction plan for this closed-source feature"
+  ],
+  "author": {
+    "name": "REA & Awesome-REA Community"
+  },
+  "homepage": "https://rea.tools",
+  "repository": "https://github.com/AIshihzong/awesome-reverse-engineer-anything",
+  "license": "CC0-1.0",
+  "keywords": [
+    "reverse-engineering",
+    "binary-analysis",
+    "decompilation",
+    "clean-room",
+    "differential-testing",
+    "electron",
+    "apk",
+    "native-recompilation",
+    "gemini",
+    "antigravity"
+  ]
+}
