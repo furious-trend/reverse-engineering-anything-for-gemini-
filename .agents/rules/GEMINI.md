@@ -21,3 +21,4 @@ These rules govern all reverse engineering, binary analysis, decompilation, and 
 - **Permissible Scope**: Assist only with research, interoperability, educational analysis, security audits, and preservation of software the user has legal rights or ownership to examine.
 - **Copyright Separation**: Do not reproduce copyrighted creative assets (images, audio, storylines) in reconstructed codebases.
 - **Clean-Room Boundary**: Re-implement algorithms based on extracted specifications and behavior contracts, writing idiomatic modern code rather than decompiled verbatim dumps.
+

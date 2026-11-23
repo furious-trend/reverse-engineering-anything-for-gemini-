@@ -103,3 +103,4 @@ bash scripts/setup-antigravity.sh
    python scripts/rea_helper.py diff-test --original original.exe --rebuild target/release/rebuild.exe --vectors tests/vectors.json
    ```
    确保新代码与原二进制实现 100% 行为一致后完成交付。
+

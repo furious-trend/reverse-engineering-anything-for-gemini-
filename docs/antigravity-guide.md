@@ -104,3 +104,4 @@ bash scripts/setup-antigravity.sh
    python scripts/rea_helper.py diff-test --original original.exe --rebuild target/release/rebuild.exe --vectors tests/vectors.json
    ```
    Ensures 100% behavioral parity before finalizing.
+

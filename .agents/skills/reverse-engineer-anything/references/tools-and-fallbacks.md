@@ -38,3 +38,4 @@ To launch REA via MCP in Antigravity:
 }
 ```
 If Node engine version mismatches occur, use the `rea_helper.py` companion or run with updated Node LTS.
+

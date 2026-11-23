@@ -25,3 +25,4 @@ When acting as a single AI agent executing a rebuild:
   - Never copy decompiled C variable names or structure field names that look copyrighted or proprietary.
   - Never copy proprietary strings, UI copy, logos, or creative assets.
 - **Idiomatic Modern Code**: Write code that follows modern language idioms rather than mimicking compiler-generated disassembly patterns.
+

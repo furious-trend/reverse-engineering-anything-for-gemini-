@@ -28,3 +28,4 @@ Before publishing findings:
 2. Is the disassembly snippet copy-pasted verbatim from decompiler output, rather than summarized or approximated?
 3. Are string references verified against raw binary strings?
 4. Is cryptographic key material identified accurately (e.g. distinguishing AES-GCM tag verification from HMAC-SHA256)?
+

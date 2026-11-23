@@ -73,3 +73,4 @@ Execute the differential test suite:
    - As observed in `rust-anything`, agents drift when they write large blocks of code without feedback. Always write code incrementally: one function, one module, or one endpoint at a time, backed by immediate test execution.
 3. **Asset Handling**:
    - Proprietary assets (fonts, icons, sound files, 3D models) should remain separate from the code. Instruct users to supply their own assets or load assets dynamically from their licensed installation.
+

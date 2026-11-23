@@ -112,3 +112,4 @@ Present findings in a structured report containing:
 2. **Evidence Table**: List of `[EVD-xx]` citations.
 3. **Control Flow / Sequence Diagram**: Mermaid diagram showing data or execution flow.
 4. **Clean-Room Specification**: Algorithmic rules, input/output contracts, and edge cases necessary to re-implement or interoperate with the feature.
+

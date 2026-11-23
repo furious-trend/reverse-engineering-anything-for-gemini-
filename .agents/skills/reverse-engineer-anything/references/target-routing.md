@@ -43,3 +43,4 @@ This document provides a comprehensive lookup table for identifying and decompos
 3. **Audit Native Libraries**:
    - Check `lib/arm64-v8a/` or `lib/x86_64/` for `.so` files.
    - Analyze native JNI methods (`Java_<package>_<class>_<method>`) using Ghidra or IDA.
+

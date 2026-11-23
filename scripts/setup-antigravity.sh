@@ -42,3 +42,4 @@ cp -r .agents/agents "$GLOBAL_PLUGIN_DIR/"
 
 echo ""
 echo "Setup Complete! REA is now installed for Antigravity & Gemini AI."
+

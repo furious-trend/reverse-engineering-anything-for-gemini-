@@ -57,3 +57,4 @@ if ($InstallGlobal) {
 }
 
 Write-Host "`n Setup Complete! You can now use REA with Gemini AI in Antigravity." -ForegroundColor Green
+
